@@ -1,0 +1,1 @@
+{"superpixel_width": 8, "shapley_mode": "SHAP", "mode_specific_params": {"SHAP": {"SHAP_min_samples": 750, "SHAP_max_samples": 800}, "sample_shapley": {"shapley_sample_percentage": null}, "partial": {"n_data_samples": null}}, "data_mode": "full", "classes": [9], "batch_size": 750, "send_mail": false, "save_temp_results": true}

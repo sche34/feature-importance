@@ -1,0 +1,9 @@
+__pycache__/*
+Analysis/functions/__pycache__/*
+*.ipynb_checkpoints*
+*-checkpoint.ipynb
+batch-config/*
+Analysis/saved figures/*
+*/__pycache__/*
+pred_time_tests/*
+test.py
